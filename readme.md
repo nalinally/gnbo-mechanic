@@ -3,6 +3,7 @@
 - 学校の自主プロジェクトという授業内の成果物の機械部分です
 - 制御部分は[gnbo/control](https://github.com/nalinally/gnbo-control.git)リポジトリにまとまっています
 
+<img width="937" height="727" alt="GNBO_最終成果物" src="https://github.com/user-attachments/assets/a0c9431e-daac-465c-accd-a4b734990577" />
 
 ### ファイル構造
 
@@ -11,4 +12,5 @@
   - allが全体設計、halfが全体設計一歩手前くらいの状態です
 
 - あとは機能ごとにフォルダが分けられています
+
 
