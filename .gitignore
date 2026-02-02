@@ -1,4 +1,4 @@
-./3dprinter
-./JointBaseA_dim
-./KRS3300_scale_step
-./software
+3dprinter/
+JointBaseA_dim/
+KRS3300_scale_step/
+software/
